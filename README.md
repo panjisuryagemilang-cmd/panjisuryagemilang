@@ -2,7 +2,6 @@
 
 **`Ordinary Guy`**
 
-----
 ### Tentang
 I'm a Junior Computer Science on my first year of college.
 
